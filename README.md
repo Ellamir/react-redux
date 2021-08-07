@@ -1,1 +1,1 @@
-# react-redux
+# react-y-redux
